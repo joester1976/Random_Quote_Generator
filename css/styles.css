@@ -1,0 +1,172 @@
+/* Random Quote Generator Style Sheet */
+
+* {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/* Body Styles */
+
+body {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.title {
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.quote-box {
+    background-color: white;
+    border-radius: 5px;
+    margin: 50px auto 30px auto;
+    padding: 10px 10px 50px 10px;
+    width: 50%;
+    height: auto;
+}
+
+.quote-box-text {
+    color: #F19581;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 10px auto 50px auto;
+}
+
+.quote-box-text-author {
+    color: #F19581;
+    font-size: 1em;
+    text-align: right;
+    margin-right: 20px;
+}
+
+
+.fa-twitter-square {
+    color: #F19581;
+    float: left;
+    font-size: 2.5em;
+    margin-left: 20px;
+    transition: 0.4s;
+}
+
+.fa-twitter-square:hover {
+    color: #7D8385;
+    transition: 0.4s;
+}
+
+.btn {
+    color: white;
+    font-size: 16px;
+    border: none !important;
+    background-color: #F19581;
+    float: right;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    transition: 0.4s;
+}
+
+.btn:hover {
+    color: white;
+    border: none;
+    background-color: #7D8385;
+    transition: 0.4s;
+}
+
+.my-name {
+    color: white;
+    text-align: center;
+}
+
+/* Random Font Color Styles */
+
+.font-color-one {
+    color: #0A60AB;
+}
+
+.font-color-two {
+    color: #22E028;
+}
+
+.font-color-three {
+    color: #E07B22;
+}
+
+.font-color-four {
+    color: #E022B1;
+}
+
+.font-color-five {
+    color: #2DED94;
+}
+
+.font-color-six {
+    color: #4FA3E8;
+}
+
+.font-color-seven {
+    color: #F01A1E;
+}
+
+.font-color-eight {
+    color: #F0931A;
+}
+
+.font-color-nine {
+    color: #EDE02D;
+}
+
+.font-color-ten {
+    color: #2D7DED;
+}
+
+/* Random Button Background Styles */
+
+.body-color-one {
+    background-color: #0A60AB;
+}
+
+.body-color-two {
+    background-color: #22E028;
+}
+
+.body-color-three {
+    background-color: #E07B22;
+}
+
+.body-color-four {
+    background-color: #E022B1;
+}
+
+.body-color-five {
+    background-color: #2DED94;
+}
+
+.body-color-six {
+    background-color: #4FA3E8;
+}
+
+.body-color-seven {
+    background-color: #F01A1E;
+}
+
+.body-color-eight {
+    background-color: #F0931A;
+}
+
+.body-color-nine {
+    background-color: #EDE02D;
+}
+
+.body-color-ten {
+    background-color: #2D7DED;
+}
+    
+ 
